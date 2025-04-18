@@ -7,15 +7,18 @@
 ### • Rebuild Ubuntu 20.04 •
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 20.04 && reboot</code></pre>
 
-### • INSTALL SCRIPT •
+### • INSTALL SCRIPT ALL OS •
+<pre><code>apt update -y && apt install -y wget curl && wget -q https://raw.githubusercontent.com/Xresx30k/mix/main/premi.sh && chmod +x premi.sh && ./premi.sh</code></pre>
+
+### • INSTALL SCRIPT OS Deb 10 / Ubuntu 20 •
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Xresx30k/mix/main/main.sh && chmod +x main.sh && ./main.sh</code></pre>
 
 ### • UPDATE SCRIPT •
 <pre><code>wget -q https://raw.githubusercontent.com/Xresx30k/mix/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
-- UBUNTU 20.04 (Recommand)
-- DEBIAN 10
+- UBUNTU 20,22,24
+- DEBIAN 10,11,12
 
 ### Author
 ### CONTACT XRESX DIGITAL VPN <br>
